@@ -11,9 +11,4 @@ class Project
     backers << backer
     Backer.backed_projects << self
   end
-
-
-
-
-
 end
